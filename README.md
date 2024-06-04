@@ -9,3 +9,5 @@ Paddle.Py controls the movement of both of the paddles. They are allowed to move
 
 Scoreboard.Py is responsible for updating the scoreboard. Whenever the ball reaches beyond either of the paddle, the opposite
 player gets a point. 
+
+Main.Py is responsible for the working of the entire game by calling each class in each file at the time they have to be called.
